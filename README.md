@@ -1,2 +1,2 @@
 # mlflow-setup
-My personal mlflow settings
+My personal mlflow settings with example
